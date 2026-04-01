@@ -19,7 +19,7 @@ Aplicativo desenvolvido como atividade da disciplina de Programação para Dispo
 git clone https://github.com/aimeeaas/calculadora-temporizador.git
 
 2. Acesse a pasta do projeto:
-cd atividade4
+cd calculadora-temporizador
 
 3. Instale as dependências:
 npm install
