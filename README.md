@@ -7,7 +7,7 @@ Aplicativo desenvolvido como atividade da disciplina de Programação para Dispo
 * Cálculo de IMC
 * Cálculo de Triângulo (isósceles, escaleno e equilátero)
 * Temporizador Básico
-* Temporizador Pomodoro - A Fazer
+* Temporizador Pomodoro
 
 ## Tecnologias utilizadas
 * React Native
