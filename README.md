@@ -1,4 +1,4 @@
-<h2> Projeto Cálculos & Temporizadores </h2>
+## Projeto Cálculos & Temporizadores
 Aplicativo desenvolvido como atividade da disciplina de Programação para Dispositivos Móveis.
 
 ## Funcionalidades 
