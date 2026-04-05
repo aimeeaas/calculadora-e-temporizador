@@ -1,5 +1,3 @@
-
-
 function FormulaBhaskara(a, b, c) {
    const delta = (b * b) - (4 * a * c);
    const x1 = (-b + Math.sqrt(delta)) / (2 * a);

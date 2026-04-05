@@ -1,5 +1,7 @@
+// Cria estilos organizados (tipo CSS)
 import { StyleSheet } from 'react-native';
 
+// Cria objeto de estilos
 export default StyleSheet.create({
 
     buttom: {
@@ -7,7 +9,7 @@ export default StyleSheet.create({
         paddingVertical: 12,
         paddingHorizontal: 25,
         borderRadius: 5,
-        alignItem: 'center',
+        alignItems: 'center',
         marginTop: 20,
     },
     buttomText: {

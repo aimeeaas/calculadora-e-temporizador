@@ -1,4 +1,3 @@
-
 function CalculoTriangulo(l1, l2, l3) {
     l1 = parseFloat(l1);
     l2 = parseFloat(l2);
