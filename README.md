@@ -1,5 +1,5 @@
 ## Projeto Cálculos & Temporizadores
-Aplicativo desenvolvido como atividade da disciplina de Programação para Dispositivos Móveis.
+Aplicação mobile desenvolvida durante a disciplina de Programação para Dispositivos Móveis, com foco na criação de múltiplas funcionalidades interativas utilizando React Native e Expo.
 
 ## Funcionalidades 
 * Cálculo com as 4 operações básicas (soma, subtração, multiplicação e divisão)
