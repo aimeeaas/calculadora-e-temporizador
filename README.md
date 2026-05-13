@@ -44,5 +44,5 @@ node index.js
 
 5. Resultado esperado: Servidor rodando em http://localhost:3000
 
-! IMPORTANTE: O backend deve permanecer rodando enquanto o aplicativo React Native estiver sendo utilizado.
-Caso o servidor esteja desligado, o CRUD de alunos não funcionará.
+! IMPORTANTE: A API de alunos funciona normalmente no navegador web e em emuladores.
+Caso utilize um celular físico com Expo Go, será necessário substituir localhost pelo IP da máquina local.
