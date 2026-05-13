@@ -8,6 +8,9 @@ Aplicativo desenvolvido como atividade da disciplina de Programação para Dispo
 * Cálculo de Triângulo (isósceles, escaleno e equilátero)
 * Temporizador Básico
 * Temporizador Pomodoro
+* API que busca e atualiza, a cada refresh, imagens de gatinhos
+* API que busca o endereço pelo CEP fornecido
+* API que realiza CRUD de alunos
 
 ## Tecnologias utilizadas
 * React Native
@@ -28,3 +31,19 @@ npm install
 npx expo start
 
 5. Abra no celular utilizando o aplicativo **Expo Go** ou em um emulador.
+   
+## Como executar o Backend da API de alunos 
+1. Acesse a pasta backendApi e inicie o Node.js:
+npm init -y
+
+2. Instale as dependências:
+npm install express
+npm install cors
+
+4. Inicie o servidor:
+node index.js
+
+5. Resultado esperado: Servidor rodando em http://localhost:3000
+
+! IMPORTANTE: O backend deve permanecer rodando enquanto o aplicativo React Native estiver sendo utilizado.
+Caso o servidor esteja desligado, o CRUD de alunos não funcionará.
