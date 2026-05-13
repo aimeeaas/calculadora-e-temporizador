@@ -37,8 +37,7 @@ npx expo start
 npm init -y
 
 2. Instale as dependências:
-npm install express
-npm install cors
+npm install express e npm install cors
 
 4. Inicie o servidor:
 node index.js
